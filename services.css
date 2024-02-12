@@ -1,0 +1,48 @@
+<style>
+ body{
+ 	background-color: blueviolet;
+ }
+ </style>
+ <style type="text/css">
+
+          .loc{
+            font-family:sans-serif;
+
+        }
+
+      nav1{
+
+             display: flex;
+               gap: 0.1rem;
+}
+
+a {
+  flex: 1;
+  background-color: #333;
+  color: #fff;
+  border: 1px solid;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.5s ease-out;
+}
+
+a:hover,
+a:focus {
+  background-color: #333;
+  color: #fff;
+}
+#footer{
+  font-family:cursive;
+}
+.header2{
+  font-family: cursive;
+}
+#services{
+  font-family:cursive;
+  color:yellow;
+}
+#services1{
+  background-color: ghostwhite;
+}
+</style>

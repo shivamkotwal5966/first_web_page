@@ -1,0 +1,56 @@
+<style>
+        body {
+            background-image: url("C:\Users\shiva\Downloads\84cd2a9fbc6cbd5522b2f048a56703a8.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100% ;
+            color: aliceblue;
+        }
+    </style>
+    <style type="text/css">
+
+            nav {
+
+               display: flex;
+               gap: 0.5rem;
+}
+
+a {
+  flex: 1;
+  background-color: #333;
+  color: #fff;
+  border: 1px solid;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.5s ease-out;
+}
+
+a:hover,
+a:focus {
+  background-color: #fff;
+  color: #333;
+}
+           
+            
+        }
+        #bg{
+            background-color:whitesmoke;
+        }
+        #img1:hover{
+            transition: all 0.5s ease-out;
+            transition-duration: 1s;
+            transition-timing-function:steps;
+            animation-name:none;
+            animation-timing-function: easy;
+        }
+        .img1:hover{
+            transition-property: all;
+            transition-timing-function:easy;
+        }
+
+       .header{
+        font-family:cursive;
+       } 
+        
+    </style>
